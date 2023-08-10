@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JimmyBlutron
-- 👀 I’m interested in video games and AI
-- 🌱 I’m currently learning how to make a social media site.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @JimmyBlutron (Jon'Pierre)
+- 👀 I’m interested in creative web development and integrating backends.
+- 🌱 I’m currently learning how to become a programmer and not a coder.
+- 📫 How to reach me message me on my linkedin.
 
 <!---
 JimmyBlutron/JimmyBlutron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
